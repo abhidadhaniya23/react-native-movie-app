@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "321286477050",
+    "project_id": "react-native-movie-app-8c558",
+    "storage_bucket": "react-native-movie-app-8c558.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321286477050:android:19ff3bffdf7a865b282543",
+        "android_client_info": {
+          "package_name": "com.abhidadhaniya.reactnativemovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321286477050-upor52vkmteifv7gs7gm1gtkvk692adb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhidadhaniya.reactnativemovieapp",
+            "certificate_hash": "dcbfcd8dfaac531d76426c4e6637e79b77afcf8e"
+          }
+        },
+        {
+          "client_id": "321286477050-v99vju67q1d47h7rio4ndjbrgl699ppd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhidadhaniya.reactnativemovieapp",
+            "certificate_hash": "dc5b7e8489f7a5b9a19254d2b921da8cc9000c99"
+          }
+        },
+        {
+          "client_id": "321286477050-q56da6rg7cf970r9o90htnsn70vb17jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMa9u76xi32JA5zE_PdpDxIomuQDeHU78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321286477050-q56da6rg7cf970r9o90htnsn70vb17jm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
